@@ -1,0 +1,16 @@
+{
+  "name": "express-ejs-boilerplate",
+  "bin": {
+    "express-ejs-boilerplate": "index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": ["express", "ejs", "boilerplate", "cli"],
+  "author": "Mediocre Roh",
+  "license": "MIT",
+  "description": "A CLI tool to generate a boilerplate Express.js + EJS project with routing, public folder, and views setup."
+}
